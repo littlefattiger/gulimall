@@ -20,9 +20,9 @@ import com.atguigu.common.utils.R;
 /**
  * 库存工作单
  *
- * @author littlefattiger
- * @email 6698381@qq.com
- * @date 2021-08-01 17:04:55
+ * @author leifengyang
+ * @email leifengyang@gmail.com
+ * @date 2019-10-08 09:59:40
  */
 @RestController
 @RequestMapping("ware/wareordertask")
